@@ -18,8 +18,8 @@ I am building my understanding through structured notes, practical labs, trouble
 ## Learning Roadmap
 
 ### 01. AWS Fundamentals
-- [Cloud Computing](01-aws-fundamentals/cloud-computing/README.md)
-- EC2
+- [What is Cloud Computing](01-aws-fundamentals/cloud-computing/README.md)
+- [Amazon EC2](01-aws-fundamentals/ec2/README.md)
 - Web Servers
 - Website Hosting
 - Shell Scripting
